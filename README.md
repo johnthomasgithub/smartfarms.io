@@ -1,8 +1,8 @@
 # MiniProjects.io
-This is a simple Mini Project, 
-Which i completed in my 5th semester of my college,
-Done under the subject of web application development,
-Completed in short span of time 1 week.
+       This is a simple Mini Project, 
+       Which i completed in my 5th semester of my college,
+       Done under the subject of web application development,
+       Completed in short span of time 1 week.
 
 
 
